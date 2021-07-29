@@ -2,8 +2,8 @@
 
 Some examples of my cartographic skills. 
 
-![Larimer County, CO](https://github.com/mdrouillard1984/Matt-Portfolio/blob/main/Cartography/Lab4_LarimerCounty_Drouillard.pdf)
+![Larimer County, CO](https://github.com/mdrouillard1984/Matt-Portfolio/blob/main/Cartography/LarimerCounty.pdf)
 
-![Denton, TX](https://github.com/mdrouillard1984/Matt-Portfolio/blob/main/Cartography/Lab5_DrillAcreageDenton_Drouillard.pdf)
+![Denton, TX](https://github.com/mdrouillard1984/Matt-Portfolio/blob/main/Cartography/DrillAcreageDenton.pdf)
 
 ![Duncanville, TX](https://github.com/mdrouillard1984/Matt-Portfolio/blob/main/Cartography/DuncanvilleTX.pdf)
