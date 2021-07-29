@@ -4,7 +4,7 @@ This is a project I and a classmate created using ArcGIS Pro Modeler workflow to
 
 ![alt text](https://github.com/mdrouillard1984/Matt-Portfolio/blob/main/Model%20Building/ModelBuilder_Final.PNG)
 
-![The final results we obtained in map format](https://github.com/mdrouillard1984/Matt-Portfolio/blob/main/Model%20Building/Final_Project_Map.png)
+![alt text](https://github.com/mdrouillard1984/Matt-Portfolio/blob/main/Model%20Building/Final_Project_Map.png)
 
 ![The full project write-up (if you care to read it)](https://github.com/mdrouillard1984/Matt-Portfolio/blob/main/Model%20Building/FinalProject_FINAL.pdf)
 
