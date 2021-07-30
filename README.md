@@ -1,4 +1,4 @@
-# Matt Drouillard's Portfolio
+# Matt Drouillard's Portfolio     ![alt text](https://github.com/mdrouillard1984/Matt-Portfolio/blob/main/Snap.png)
 Portfolio of projects and products.
 
 Hi my name is Matt Drouillard, welcome to my portfolio. I have created this in order to showcase some of the work I have done in the realm of GIS. 
