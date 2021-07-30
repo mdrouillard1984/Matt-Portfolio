@@ -11,4 +11,6 @@ Thank you for visiting!
 
 [ArcGIS Model Building](https://github.com/mdrouillard1984/Matt-Portfolio/tree/main/Model%20Building)
 
+[Story Maps](https://github.com/mdrouillard1984/Matt-Portfolio/tree/main/Story%20Maps)
+
 [Thermal Mapping of TX & LA Shale Plays](https://github.com/mdrouillard1984/Matt-Portfolio/tree/main/Thermal%20Mapping)
